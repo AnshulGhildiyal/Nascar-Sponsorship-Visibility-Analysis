@@ -1,0 +1,44 @@
+# ── Python ──────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+
+# ── Virtual environments ────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+.env
+
+# ── Secrets & API keys ─────────────────────────────────────────
+.env
+secrets.json
+*_key.txt
+credentials.json
+
+# ── Data (raw CSVs contain proprietary/scraped data) ───────────
+data/raw/*.csv
+data/raw/*.json
+data/raw/*.xlsx
+!data/raw/.gitkeep
+
+# Processed data is committed (shareable, non-proprietary)
+# data/processed/*.csv   ← intentionally tracked
+
+# ── Jupyter ─────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ── IDE & OS ────────────────────────────────────────────────────
+.DS_Store
+.idea/
+.vscode/
+*.swp
+Thumbs.db

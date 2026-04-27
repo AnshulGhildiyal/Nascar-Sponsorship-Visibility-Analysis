@@ -1,0 +1,181 @@
+race_number,race_name,race_date,sponsor,driver,team,car_number,finish_position,laps_led,reddit_mentions,reddit_total_score,reddit_avg_score,reddit_total_comments,reddit_engagement_per_mention,youtube_total_views,youtube_sponsor_videos,youtube_sponsor_views,youtube_sponsor_likes,youtube_view_share,news_total_mentions,news_primary_mentions,news_weighted_mentions,merge_key
+1,Daytona 500,2024-02-18,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,33,0,20,460,23.0,166,31.3,253154,2,32678,1395,12.91,1.1,0.6,0.64,1_Dollar Tree
+1,Daytona 500,2024-02-18,Fastenal,Chris Buescher,RFK Racing #17,17,28,0,48,1243,25.9,269,31.5,1500071,0,64931,1898,4.33,6.2,2.0,4.46,1_Fastenal
+1,Daytona 500,2024-02-18,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,19,0,12,717,59.8,172,74.08,418018,4,46789,1245,11.19,2.9,0.7,1.68,1_Love's Travel Stops
+1,Daytona 500,2024-02-18,Monster Energy,Tyler Reddick,23XI Racing #45,45,10,5,209,19374,92.7,5350,118.3,1631289,2,844232,19944,51.75,21.8,11.9,19.18,1_Monster Energy
+1,Daytona 500,2024-02-18,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,1,142,659,150252,228.0,39771,288.35,4368756,12,2070050,53230,47.38,103.2,46.0,90.82,1_NAPA Auto Parts
+2,Ambetter Health 400,2024-02-25,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,25,0,3,53,17.7,19,24.0,103758,0,7214,298,6.95,0.4,0.2,0.23,2_Dollar Tree
+2,Ambetter Health 400,2024-02-25,Fastenal,Chris Buescher,RFK Racing #17,17,18,0,18,934,51.9,223,64.28,219047,1,60082,1726,27.43,2.6,0.9,1.87,2_Fastenal
+2,Ambetter Health 400,2024-02-25,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,19,0,5,148,29.7,42,38.0,82700,1,8581,258,10.38,0.7,0.3,0.41,2_Love's Travel Stops
+2,Ambetter Health 400,2024-02-25,Monster Energy,Tyler Reddick,23XI Racing #45,45,9,0,47,3614,76.9,545,88.49,970586,5,148257,6166,15.27,8.3,2.6,7.3,2_Monster Energy
+2,Ambetter Health 400,2024-02-25,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,2,12,85,13506,158.9,3539,200.53,815513,7,411000,22805,50.4,14.3,6.6,12.58,2_NAPA Auto Parts
+3,Pennzoil 400,2024-03-03,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,29,0,5,143,28.6,26,33.8,78914,6,12102,523,15.34,0.6,0.2,0.35,3_Dollar Tree
+3,Pennzoil 400,2024-03-03,Fastenal,Chris Buescher,RFK Racing #17,17,26,0,10,396,39.6,98,49.4,322750,1,22847,616,7.08,1.4,0.5,1.01,3_Fastenal
+3,Pennzoil 400,2024-03-03,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,20,0,3,3,1.0,21,8.0,77924,1,11570,575,14.85,0.5,0.2,0.29,3_Love's Travel Stops
+3,Pennzoil 400,2024-03-03,Monster Energy,Tyler Reddick,23XI Racing #45,45,1,109,241,53405,221.6,6595,248.96,785821,11,822285,47380,100.0,32.0,11.8,28.16,3_Monster Energy
+3,Pennzoil 400,2024-03-03,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,2,41,131,29252,223.3,3615,250.89,1039103,10,437632,23374,42.12,13.8,4.8,12.14,3_NAPA Auto Parts
+4,United Rentals Work United 500,2024-03-10,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,29,0,3,22,7.5,25,15.67,65522,1,9107,184,13.9,0.4,0.1,0.23,4_Dollar Tree
+4,United Rentals Work United 500,2024-03-10,Fastenal,Chris Buescher,RFK Racing #17,17,12,0,6,217,36.2,94,51.83,289204,2,57236,1883,19.79,1.7,0.9,1.22,4_Fastenal
+4,United Rentals Work United 500,2024-03-10,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,30,0,2,51,25.6,5,28.0,109205,0,6199,367,5.68,0.5,0.3,0.29,4_Love's Travel Stops
+4,United Rentals Work United 500,2024-03-10,Monster Energy,Tyler Reddick,23XI Racing #45,45,29,0,28,753,26.9,217,34.64,1020469,3,90736,3891,8.89,3.3,1.1,2.9,4_Monster Energy
+4,United Rentals Work United 500,2024-03-10,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,17,0,73,3131,42.9,965,56.11,686334,4,158360,8641,23.07,7.0,2.2,6.16,4_NAPA Auto Parts
+5,Food City 500,2024-03-17,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,22,0,3,54,18.2,27,27.0,106398,1,9173,531,8.62,0.3,0.2,0.17,5_Dollar Tree
+5,Food City 500,2024-03-17,Fastenal,Chris Buescher,RFK Racing #17,17,10,9,33,1841,55.8,693,76.79,290199,5,69274,3408,23.87,3.2,1.0,2.3,5_Fastenal
+5,Food City 500,2024-03-17,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,27,0,3,143,47.9,25,56.0,86857,5,8698,218,10.01,0.5,0.2,0.29,5_Love's Travel Stops
+5,Food City 500,2024-03-17,Monster Energy,Tyler Reddick,23XI Racing #45,45,22,0,14,406,29.0,73,34.21,1065142,0,81144,4747,7.62,4.0,2.0,3.52,5_Monster Energy
+5,Food City 500,2024-03-17,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,7,9,77,3657,47.5,1746,70.17,992598,3,174947,3860,17.63,13.8,6.1,12.14,5_NAPA Auto Parts
+6,EchoPark Automotive Grand Prix,2024-03-24,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,29,0,4,112,28.0,35,36.75,79453,1,14982,702,18.86,0.6,0.3,0.35,6_Dollar Tree
+6,EchoPark Automotive Grand Prix,2024-03-24,Fastenal,Chris Buescher,RFK Racing #17,17,23,0,10,371,37.1,56,42.7,368846,0,31717,1782,8.6,1.7,0.5,1.22,6_Fastenal
+6,EchoPark Automotive Grand Prix,2024-03-24,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,31,0,2,34,17.3,14,24.0,67436,1,10231,263,15.17,0.4,0.2,0.23,6_Love's Travel Stops
+6,EchoPark Automotive Grand Prix,2024-03-24,Monster Energy,Tyler Reddick,23XI Racing #45,45,2,14,167,14111,84.5,4267,110.05,1083266,13,540360,20079,49.88,19.8,5.6,17.42,6_Monster Energy
+6,EchoPark Automotive Grand Prix,2024-03-24,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,13,0,52,3000,57.7,405,65.48,809855,0,139723,6249,17.25,4.8,1.7,4.22,6_NAPA Auto Parts
+7,Toyota Owners 400,2024-03-31,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,36,0,3,82,27.5,25,35.67,89919,3,10025,230,11.15,0.5,0.2,0.29,7_Dollar Tree
+7,Toyota Owners 400,2024-03-31,Fastenal,Chris Buescher,RFK Racing #17,17,13,0,22,1058,48.1,301,61.77,343233,2,59502,1387,17.34,2.6,1.1,1.87,7_Fastenal
+7,Toyota Owners 400,2024-03-31,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,23,0,4,77,19.4,27,26.0,68630,1,7852,278,11.44,0.4,0.1,0.23,7_Love's Travel Stops
+7,Toyota Owners 400,2024-03-31,Monster Energy,Tyler Reddick,23XI Racing #45,45,12,0,41,504,12.3,640,27.9,880176,2,207769,6900,23.61,4.2,1.6,3.7,7_Monster Energy
+7,Toyota Owners 400,2024-03-31,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,1,46,139,22240,160.0,9592,229.01,934194,9,748108,40790,80.08,23.1,11.9,20.33,7_NAPA Auto Parts
+8,GEICO 500,2024-04-21,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,22,0,0,0,0.0,0,0.0,89903,2,9090,469,10.11,0.6,0.3,0.35,8_Dollar Tree
+8,GEICO 500,2024-04-21,Fastenal,Chris Buescher,RFK Racing #17,17,19,0,23,1051,45.7,268,57.35,408960,3,56860,1709,13.9,1.8,0.9,1.3,8_Fastenal
+8,GEICO 500,2024-04-21,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,12,0,3,150,50.1,48,66.0,81168,3,12773,626,15.74,0.4,0.2,0.23,8_Love's Travel Stops
+8,GEICO 500,2024-04-21,Monster Energy,Tyler Reddick,23XI Racing #45,45,6,0,83,3535,42.6,1917,65.69,841748,1,180421,3707,21.43,9.0,2.5,7.92,8_Monster Energy
+8,GEICO 500,2024-04-21,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,4,40,62,1178,19.0,1541,43.85,1091984,9,385315,8112,35.29,16.0,8.7,14.08,8_NAPA Auto Parts
+9,Würth 400,2024-04-28,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,27,0,4,74,18.6,29,25.75,100997,3,10180,263,10.08,0.5,0.1,0.29,9_Dollar Tree
+9,Würth 400,2024-04-28,Fastenal,Chris Buescher,RFK Racing #17,17,1,40,65,1742,26.8,3976,87.97,234453,7,174534,8292,74.44,7.6,2.8,5.47,9_Fastenal
+9,Würth 400,2024-04-28,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,33,0,3,69,23.1,29,32.67,64408,1,8003,340,12.43,0.3,0.1,0.17,9_Love's Travel Stops
+9,Würth 400,2024-04-28,Monster Energy,Tyler Reddick,23XI Racing #45,45,2,15,101,13029,129.0,1843,147.25,816476,5,314075,8403,38.47,14.2,3.9,12.5,9_Monster Energy
+9,Würth 400,2024-04-28,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,23,0,32,214,6.7,323,16.78,1106563,1,134064,2927,12.12,4.2,1.8,3.7,9_NAPA Auto Parts
+10,AdventHealth 400,2024-05-05,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,33,0,5,135,27.1,22,31.4,91238,2,11336,475,12.42,0.4,0.2,0.23,10_Dollar Tree
+10,AdventHealth 400,2024-05-05,Fastenal,Chris Buescher,RFK Racing #17,17,10,3,28,1733,61.9,763,89.14,305380,6,81578,4034,26.71,3.6,1.5,2.59,10_Fastenal
+10,AdventHealth 400,2024-05-05,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,28,0,4,82,20.5,26,27.0,80488,3,9260,325,11.5,0.5,0.3,0.29,10_Love's Travel Stops
+10,AdventHealth 400,2024-05-05,Monster Energy,Tyler Reddick,23XI Racing #45,45,9,5,36,928,25.8,693,45.03,791583,2,190119,10622,24.02,8.9,3.3,7.83,10_Monster Energy
+10,AdventHealth 400,2024-05-05,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,11,0,21,718,34.2,198,43.62,1405877,4,213344,11944,15.18,7.2,3.1,6.34,10_NAPA Auto Parts
+11,Goodyear 400,2024-05-12,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,28,0,3,9,3.3,22,10.33,142608,2,7960,349,5.58,0.9,0.4,0.52,11_Dollar Tree
+11,Goodyear 400,2024-05-12,Fastenal,Chris Buescher,RFK Racing #17,17,4,12,26,1362,52.4,681,78.58,309209,8,123738,4919,40.02,4.0,1.6,2.88,11_Fastenal
+11,Goodyear 400,2024-05-12,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,32,0,4,57,14.3,20,19.25,51800,2,7302,175,14.1,0.5,0.2,0.29,11_Love's Travel Stops
+11,Goodyear 400,2024-05-12,Monster Energy,Tyler Reddick,23XI Racing #45,45,23,0,30,1071,35.7,30,36.7,1184966,2,58044,1692,4.9,4.9,2.0,4.31,11_Monster Energy
+11,Goodyear 400,2024-05-12,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,14,0,52,2750,52.9,710,66.54,893283,3,174781,7608,19.57,5.8,2.7,5.1,11_NAPA Auto Parts
+12,Coca-Cola 600,2024-05-26,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,19,0,17,732,43.1,131,50.76,273942,2,35673,765,13.02,2.6,1.0,1.51,12_Dollar Tree
+12,Coca-Cola 600,2024-05-26,Fastenal,Chris Buescher,RFK Racing #17,17,7,4,70,3717,53.1,1408,73.21,1188978,0,253452,11796,21.32,8.3,2.3,5.98,12_Fastenal
+12,Coca-Cola 600,2024-05-26,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,22,0,8,193,24.2,93,35.75,102605,2,29251,797,28.51,0.8,0.4,0.46,12_Love's Travel Stops
+12,Coca-Cola 600,2024-05-26,Monster Energy,Tyler Reddick,23XI Racing #45,45,4,13,193,19763,102.4,4994,128.27,3220080,6,787408,44496,24.45,27.8,9.0,24.46,12_Monster Energy
+12,Coca-Cola 600,2024-05-26,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,1,139,468,67111,143.4,36381,221.14,2399672,9,1848377,61524,77.03,66.8,28.9,58.78,12_NAPA Auto Parts
+13,Toyota/Save Mart 350,2024-06-09,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,26,0,4,105,26.3,12,29.25,127327,2,10457,478,8.21,0.4,0.2,0.23,13_Dollar Tree
+13,Toyota/Save Mart 350,2024-06-09,Fastenal,Chris Buescher,RFK Racing #17,17,26,0,9,234,26.0,51,31.67,372972,3,28859,709,7.74,1.8,0.8,1.3,13_Fastenal
+13,Toyota/Save Mart 350,2024-06-09,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,25,0,3,118,39.4,22,46.67,98468,0,8408,304,8.54,0.5,0.2,0.29,13_Love's Travel Stops
+13,Toyota/Save Mart 350,2024-06-09,Monster Energy,Tyler Reddick,23XI Racing #45,45,7,4,80,4160,52.0,698,60.73,800174,6,200894,11335,25.11,6.2,3.1,5.46,13_Monster Energy
+13,Toyota/Save Mart 350,2024-06-09,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,4,37,115,14053,122.2,3230,150.29,758705,3,280879,13732,37.02,14.2,7.2,12.5,13_NAPA Auto Parts
+14,FireKeepers Casino 400,2024-06-16,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,22,0,4,151,37.9,18,42.25,95850,6,13159,615,13.73,0.6,0.2,0.35,14_Dollar Tree
+14,FireKeepers Casino 400,2024-06-16,Fastenal,Chris Buescher,RFK Racing #17,17,19,0,11,68,6.2,101,15.36,245153,3,30547,705,12.46,2.6,1.4,1.87,14_Fastenal
+14,FireKeepers Casino 400,2024-06-16,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,18,0,7,200,28.6,64,37.71,65219,1,14347,743,22.0,0.8,0.4,0.46,14_Love's Travel Stops
+14,FireKeepers Casino 400,2024-06-16,Monster Energy,Tyler Reddick,23XI Racing #45,45,4,40,81,9728,120.1,1917,143.77,988680,5,329931,8736,33.37,12.6,6.3,11.09,14_Monster Energy
+14,FireKeepers Casino 400,2024-06-16,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,6,5,72,4644,64.5,1583,86.49,1306432,4,280495,6136,21.47,10.3,2.8,9.06,14_NAPA Auto Parts
+15,Iowa Corn 350,2024-06-23,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,22,0,4,129,32.3,32,40.25,141650,1,8820,451,6.23,0.5,0.2,0.29,15_Dollar Tree
+15,Iowa Corn 350,2024-06-23,Fastenal,Chris Buescher,RFK Racing #17,17,14,0,12,290,24.2,72,30.17,190111,4,36880,1353,19.4,3.2,1.0,2.3,15_Fastenal
+15,Iowa Corn 350,2024-06-23,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,36,0,2,36,18.0,17,26.5,69385,1,9596,419,13.83,0.3,0.2,0.17,15_Love's Travel Stops
+15,Iowa Corn 350,2024-06-23,Monster Energy,Tyler Reddick,23XI Racing #45,45,1,52,237,45646,192.6,18032,268.68,785615,12,610792,30236,77.75,14.4,4.6,12.67,15_Monster Energy
+15,Iowa Corn 350,2024-06-23,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,2,18,84,11340,135.0,1425,151.96,1230473,8,415675,22780,33.78,18.5,4.7,16.28,15_NAPA Auto Parts
+16,Quaker State 400,2024-07-07,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,37,0,4,74,18.6,21,23.75,90283,1,8917,312,9.88,0.5,0.1,0.29,16_Dollar Tree
+16,Quaker State 400,2024-07-07,Fastenal,Chris Buescher,RFK Racing #17,17,11,0,17,515,30.3,198,41.94,300162,1,49760,2627,16.58,2.4,0.8,1.73,16_Fastenal
+16,Quaker State 400,2024-07-07,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,22,0,3,73,24.4,10,27.67,71777,1,9851,570,13.72,0.5,0.1,0.29,16_Love's Travel Stops
+16,Quaker State 400,2024-07-07,Monster Energy,Tyler Reddick,23XI Racing #45,45,9,5,90,7173,79.7,1424,95.52,1249430,6,251376,6640,20.12,6.8,3.6,5.98,16_Monster Energy
+16,Quaker State 400,2024-07-07,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,11,0,39,1333,34.2,471,46.26,1045553,1,181761,6344,17.38,9.1,3.0,8.01,16_NAPA Auto Parts
+17,HighPoint.com 400,2024-07-14,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,25,0,4,156,39.1,32,47.0,103678,2,11546,245,11.14,0.6,0.3,0.35,17_Dollar Tree
+17,HighPoint.com 400,2024-07-14,Fastenal,Chris Buescher,RFK Racing #17,17,15,0,11,424,38.6,150,52.18,233909,4,68561,1955,29.31,2.2,0.8,1.58,17_Fastenal
+17,HighPoint.com 400,2024-07-14,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,35,0,3,47,15.9,21,22.67,83849,1,7020,278,8.37,0.4,0.1,0.23,17_Love's Travel Stops
+17,HighPoint.com 400,2024-07-14,Monster Energy,Tyler Reddick,23XI Racing #45,45,6,6,35,1715,49.0,266,56.6,877651,1,243326,11489,27.72,10.6,4.7,9.33,17_Monster Energy
+17,HighPoint.com 400,2024-07-14,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,15,0,58,1693,29.2,615,39.79,1375998,2,132918,7026,9.66,8.0,2.6,7.04,17_NAPA Auto Parts
+18,Brickyard 400,2024-07-21,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,30,0,6,318,53.1,54,62.0,238597,1,23959,636,10.04,1.1,0.4,0.64,18_Dollar Tree
+18,Brickyard 400,2024-07-21,Fastenal,Chris Buescher,RFK Racing #17,17,8,6,39,2858,73.3,360,82.51,597271,5,134386,7714,22.5,5.8,2.8,4.18,18_Fastenal
+18,Brickyard 400,2024-07-21,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,31,0,7,166,23.8,95,37.29,96663,3,18680,406,19.32,0.6,0.2,0.35,18_Love's Travel Stops
+18,Brickyard 400,2024-07-21,Monster Energy,Tyler Reddick,23XI Racing #45,45,1,93,499,127394,255.3,22834,301.06,1646807,7,1295098,27622,78.64,30.4,8.3,26.75,18_Monster Energy
+18,Brickyard 400,2024-07-21,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,5,28,180,14346,79.7,3695,100.23,1348438,9,453716,19435,33.65,30.9,7.9,27.19,18_NAPA Auto Parts
+19,Cook Out 400,2024-07-28,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,22,0,4,69,17.3,27,24.0,125591,2,6545,301,5.21,0.4,0.2,0.23,19_Dollar Tree
+19,Cook Out 400,2024-07-28,Fastenal,Chris Buescher,RFK Racing #17,17,30,0,8,98,12.3,41,17.38,168341,3,29874,1043,17.75,1.6,0.6,1.15,19_Fastenal
+19,Cook Out 400,2024-07-28,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,15,0,4,156,39.0,14,42.5,102117,3,10503,491,10.29,0.5,0.1,0.29,19_Love's Travel Stops
+19,Cook Out 400,2024-07-28,Monster Energy,Tyler Reddick,23XI Racing #45,45,16,0,51,4630,90.8,630,103.14,1382030,0,160789,5759,11.63,8.0,3.9,7.04,19_Monster Energy
+19,Cook Out 400,2024-07-28,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,18,0,36,1450,40.3,166,44.89,887061,3,111793,6020,12.6,6.0,2.6,5.28,19_NAPA Auto Parts
+20,Cup Series Race at Michigan,2024-08-18,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,40,0,4,153,38.3,42,48.75,117553,2,11701,541,9.95,0.4,0.2,0.23,20_Dollar Tree
+20,Cup Series Race at Michigan,2024-08-18,Fastenal,Chris Buescher,RFK Racing #17,17,4,27,36,1900,52.8,908,78.0,251814,6,114676,5470,45.54,4.3,1.9,3.1,20_Fastenal
+20,Cup Series Race at Michigan,2024-08-18,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,34,0,2,61,30.7,23,42.0,86804,1,9082,424,10.46,0.5,0.2,0.29,20_Love's Travel Stops
+20,Cup Series Race at Michigan,2024-08-18,Monster Energy,Tyler Reddick,23XI Racing #45,45,26,0,19,642,33.8,147,41.53,747189,2,79229,2608,10.6,5.4,2.9,4.75,20_Monster Energy
+20,Cup Series Race at Michigan,2024-08-18,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,25,0,21,273,13.0,55,15.62,659201,3,133914,7307,20.31,5.7,1.5,5.02,20_NAPA Auto Parts
+21,Federated Auto Parts 400,2024-08-25,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,20,0,4,224,56.2,32,64.0,58670,3,16733,416,28.52,0.9,0.3,0.52,21_Dollar Tree
+21,Federated Auto Parts 400,2024-08-25,Fastenal,Chris Buescher,RFK Racing #17,17,4,40,43,4269,99.3,1158,126.21,362911,4,117209,2819,32.3,4.6,1.8,3.31,21_Fastenal
+21,Federated Auto Parts 400,2024-08-25,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,20,0,6,264,44.1,69,55.5,63379,1,16520,748,26.07,0.6,0.3,0.35,21_Love's Travel Stops
+21,Federated Auto Parts 400,2024-08-25,Monster Energy,Tyler Reddick,23XI Racing #45,45,11,0,35,2037,58.2,619,75.89,500664,3,125268,4215,25.02,4.4,1.9,3.87,21_Monster Energy
+21,Federated Auto Parts 400,2024-08-25,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,14,0,61,2214,36.3,691,47.62,778379,3,114122,3986,14.66,4.3,1.4,3.78,21_NAPA Auto Parts
+22,Cook Out Southern 500,2024-08-31,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,15,0,15,340,22.7,113,30.2,184481,1,32386,1684,17.56,1.9,1.0,1.1,22_Dollar Tree
+22,Cook Out Southern 500,2024-08-31,Fastenal,Chris Buescher,RFK Racing #17,17,29,0,20,244,12.2,138,19.1,1033872,4,60633,1465,5.86,4.2,2.0,3.02,22_Fastenal
+22,Cook Out Southern 500,2024-08-31,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,16,0,11,822,74.8,60,80.18,129267,2,32049,1361,24.79,1.9,1.0,1.1,22_Love's Travel Stops
+22,Cook Out Southern 500,2024-08-31,Monster Energy,Tyler Reddick,23XI Racing #45,45,3,28,194,19244,99.2,8845,144.79,1732334,7,956196,20028,55.2,46.6,19.3,41.01,22_Monster Energy
+22,Cook Out Southern 500,2024-08-31,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,1,158,510,183141,359.1,39897,437.33,2337972,11,1250052,63499,53.47,72.9,30.4,64.15,22_NAPA Auto Parts
+23,Enjoy Illinois 300,2024-09-08,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,30,0,4,103,25.9,39,35.5,89484,2,10863,392,12.14,0.6,0.2,0.35,23_Dollar Tree
+23,Enjoy Illinois 300,2024-09-08,Fastenal,Chris Buescher,RFK Racing #17,17,11,0,15,628,41.9,209,55.8,257417,4,32531,1941,12.64,2.0,1.1,1.44,23_Fastenal
+23,Enjoy Illinois 300,2024-09-08,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,19,0,5,206,41.3,57,52.6,74487,5,13185,528,17.7,0.5,0.2,0.29,23_Love's Travel Stops
+23,Enjoy Illinois 300,2024-09-08,Monster Energy,Tyler Reddick,23XI Racing #45,45,15,0,68,3189,46.9,793,58.56,853740,2,151751,4875,17.77,5.9,1.9,5.19,23_Monster Energy
+23,Enjoy Illinois 300,2024-09-08,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,13,0,36,1555,43.2,159,47.61,958199,5,127189,4575,13.27,6.6,3.3,5.81,23_NAPA Auto Parts
+24,Quaker State 400 Atlanta,2024-09-15,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,35,0,3,109,36.5,28,45.67,94432,1,9866,299,10.45,0.5,0.2,0.29,24_Dollar Tree
+24,Quaker State 400 Atlanta,2024-09-15,Fastenal,Chris Buescher,RFK Racing #17,17,11,0,17,1016,59.8,256,74.82,217936,2,22003,611,10.1,2.6,0.9,1.87,24_Fastenal
+24,Quaker State 400 Atlanta,2024-09-15,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,29,0,2,53,26.7,2,27.5,110144,2,6212,217,5.64,0.4,0.1,0.23,24_Love's Travel Stops
+24,Quaker State 400 Atlanta,2024-09-15,Monster Energy,Tyler Reddick,23XI Racing #45,45,2,9,73,7511,102.9,3550,151.52,937057,5,379131,18079,40.46,17.1,9.4,15.05,24_Monster Energy
+24,Quaker State 400 Atlanta,2024-09-15,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,7,7,83,83,1.0,1236,15.89,966516,5,208530,4318,21.58,9.9,4.3,8.71,24_NAPA Auto Parts
+25,Bass Pro Shops Night Race,2024-09-21,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,33,0,4,78,19.6,37,28.75,90984,3,9995,249,10.99,0.4,0.2,0.23,25_Dollar Tree
+25,Bass Pro Shops Night Race,2024-09-21,Fastenal,Chris Buescher,RFK Racing #17,17,21,0,10,211,21.1,48,25.9,169143,2,25549,944,15.1,0.9,0.2,0.65,25_Fastenal
+25,Bass Pro Shops Night Race,2024-09-21,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,26,0,3,108,36.0,11,39.67,83682,2,6887,182,8.23,0.4,0.1,0.23,25_Love's Travel Stops
+25,Bass Pro Shops Night Race,2024-09-21,Monster Energy,Tyler Reddick,23XI Racing #45,45,1,118,171,30711,179.6,12123,250.49,904518,5,727192,36249,80.4,34.8,9.8,30.62,25_Monster Energy
+25,Bass Pro Shops Night Race,2024-09-21,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,20,0,44,1306,29.7,681,45.16,861299,2,222537,12477,25.84,9.3,4.2,8.18,25_NAPA Auto Parts
+26,Hollywood Casino 400,2024-09-29,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,21,0,2,49,24.5,22,35.5,99693,1,11476,633,11.51,0.6,0.3,0.35,26_Dollar Tree
+26,Hollywood Casino 400,2024-09-29,Fastenal,Chris Buescher,RFK Racing #17,17,16,0,18,604,33.6,118,40.11,401643,2,44743,1166,11.14,2.2,1.1,1.58,26_Fastenal
+26,Hollywood Casino 400,2024-09-29,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,34,0,2,63,31.7,21,42.0,62601,5,11179,558,17.86,0.5,0.2,0.29,26_Love's Travel Stops
+26,Hollywood Casino 400,2024-09-29,Monster Energy,Tyler Reddick,23XI Racing #45,45,21,0,27,623,23.1,127,27.78,1075499,0,135683,6432,12.62,4.3,1.2,3.78,26_Monster Energy
+26,Hollywood Casino 400,2024-09-29,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,11,0,52,1835,35.3,560,46.06,1126252,3,146179,8644,12.98,7.0,2.1,6.16,26_NAPA Auto Parts
+27,Bank of America ROVAL 400,2024-10-06,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,22,0,4,134,33.7,37,42.75,77764,1,12645,503,16.26,0.6,0.3,0.35,27_Dollar Tree
+27,Bank of America ROVAL 400,2024-10-06,Fastenal,Chris Buescher,RFK Racing #17,17,14,0,12,561,46.8,187,62.33,362596,1,51121,2526,14.1,2.7,0.9,1.94,27_Fastenal
+27,Bank of America ROVAL 400,2024-10-06,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,20,0,5,273,54.7,62,67.0,78759,5,14058,760,17.85,0.5,0.2,0.29,27_Love's Travel Stops
+27,Bank of America ROVAL 400,2024-10-06,Monster Energy,Tyler Reddick,23XI Racing #45,45,7,3,55,4477,81.4,766,95.33,1236172,2,216739,4792,17.53,13.3,5.7,11.7,27_Monster Energy
+27,Bank of America ROVAL 400,2024-10-06,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,17,0,45,2713,60.3,269,66.27,981147,2,213376,9926,21.75,4.9,1.2,4.31,27_NAPA Auto Parts
+28,South Point 400,2024-10-13,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,24,0,4,209,52.4,18,56.75,106605,3,7394,360,6.94,0.4,0.2,0.23,28_Dollar Tree
+28,South Point 400,2024-10-13,Fastenal,Chris Buescher,RFK Racing #17,17,25,0,8,203,25.4,51,31.75,331779,0,45927,2539,13.84,1.8,0.9,1.3,28_Fastenal
+28,South Point 400,2024-10-13,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,28,0,2,62,31.0,14,38.0,70325,3,5835,169,8.3,0.4,0.1,0.23,28_Love's Travel Stops
+28,South Point 400,2024-10-13,Monster Energy,Tyler Reddick,23XI Racing #45,45,5,40,65,3256,50.1,778,62.06,557553,3,263691,11201,47.29,14.0,5.0,12.32,28_Monster Energy
+28,South Point 400,2024-10-13,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,5,24,41,3066,74.8,1398,108.88,762163,6,313912,13940,41.19,14.0,6.3,12.32,28_NAPA Auto Parts
+29,YellaWood 500,2024-10-19,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,35,0,4,141,35.3,26,41.75,71836,3,10525,591,14.65,0.5,0.2,0.29,29_Dollar Tree
+29,YellaWood 500,2024-10-19,Fastenal,Chris Buescher,RFK Racing #17,17,16,0,12,484,40.4,185,55.75,341336,3,64687,3345,18.95,1.9,0.8,1.37,29_Fastenal
+29,YellaWood 500,2024-10-19,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,24,0,3,105,35.2,19,41.33,59854,4,7060,419,11.8,0.4,0.2,0.23,29_Love's Travel Stops
+29,YellaWood 500,2024-10-19,Monster Energy,Tyler Reddick,23XI Racing #45,45,2,25,118,10714,90.8,2133,108.87,932325,8,555867,12567,59.62,20.0,8.2,17.6,29_Monster Energy
+29,YellaWood 500,2024-10-19,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,18,0,33,1683,51.0,598,69.12,928861,1,191748,11336,20.64,5.6,2.7,4.93,29_NAPA Auto Parts
+30,Dixie Vodka 400,2024-10-26,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,28,0,4,136,34.2,14,37.5,110850,1,10875,411,9.81,0.6,0.2,0.35,30_Dollar Tree
+30,Dixie Vodka 400,2024-10-26,Fastenal,Chris Buescher,RFK Racing #17,17,9,3,26,1877,72.2,325,84.69,364020,4,51059,1641,14.03,3.4,1.7,2.45,30_Fastenal
+30,Dixie Vodka 400,2024-10-26,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,27,0,3,89,29.7,21,36.67,75074,0,6677,331,8.89,0.4,0.2,0.23,30_Love's Travel Stops
+30,Dixie Vodka 400,2024-10-26,Monster Energy,Tyler Reddick,23XI Racing #45,45,10,4,53,5135,96.9,912,114.09,986708,6,233897,11594,23.7,6.7,1.9,5.9,30_Monster Energy
+30,Dixie Vodka 400,2024-10-26,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,2,42,143,18590,130.0,2909,150.34,881587,10,495204,14941,56.17,18.5,7.5,16.28,30_NAPA Auto Parts
+31,Xfinity 500,2024-11-03,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,31,0,7,52,7.5,35,12.43,123007,3,9465,428,7.69,0.7,0.2,0.41,31_Dollar Tree
+31,Xfinity 500,2024-11-03,Fastenal,Chris Buescher,RFK Racing #17,17,24,0,10,252,25.2,74,32.6,382036,0,26649,1502,6.98,1.5,0.7,1.08,31_Fastenal
+31,Xfinity 500,2024-11-03,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,32,0,2,54,27.3,12,33.0,40517,3,9210,210,22.73,0.4,0.1,0.23,31_Love's Travel Stops
+31,Xfinity 500,2024-11-03,Monster Energy,Tyler Reddick,23XI Racing #45,45,8,0,56,806,14.4,765,28.05,617639,2,249444,13997,40.39,9.6,4.1,8.45,31_Monster Energy
+31,Xfinity 500,2024-11-03,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,12,0,52,1887,36.3,734,50.4,1100612,3,126087,6070,11.46,7.9,3.3,6.95,31_NAPA Auto Parts
+32,Straight Talk Wireless 400,2024-11-03,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,29,0,5,164,32.8,48,42.4,72104,0,11587,508,16.07,0.7,0.3,0.41,32_Dollar Tree
+32,Straight Talk Wireless 400,2024-11-03,Fastenal,Chris Buescher,RFK Racing #17,17,23,0,10,230,23.0,38,26.8,345909,2,36045,1148,10.42,1.6,0.4,1.15,32_Fastenal
+32,Straight Talk Wireless 400,2024-11-03,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,25,0,3,117,39.3,14,43.67,105800,4,6449,158,6.1,0.4,0.2,0.23,32_Love's Travel Stops
+32,Straight Talk Wireless 400,2024-11-03,Monster Energy,Tyler Reddick,23XI Racing #45,45,12,0,17,292,17.2,145,25.71,665591,4,128583,6045,19.32,7.2,1.9,6.34,32_Monster Energy
+32,Straight Talk Wireless 400,2024-11-03,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,6,9,30,1617,53.9,527,71.47,489646,5,151965,6303,31.04,9.9,3.3,8.71,32_NAPA Auto Parts
+33,NASCAR Cup Series Championship,2024-11-10,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,24,0,10,412,41.2,113,52.5,168637,1,19575,921,11.61,0.7,0.2,0.41,33_Dollar Tree
+33,NASCAR Cup Series Championship,2024-11-10,Fastenal,Chris Buescher,RFK Racing #17,17,20,0,31,1661,53.6,445,67.94,403182,3,129261,4811,32.06,2.9,0.8,2.09,33_Fastenal
+33,NASCAR Cup Series Championship,2024-11-10,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,35,0,5,150,30.0,23,34.6,169230,3,15091,320,8.92,0.8,0.3,0.46,33_Love's Travel Stops
+33,NASCAR Cup Series Championship,2024-11-10,Monster Energy,Tyler Reddick,23XI Racing #45,45,15,0,114,5483,48.1,1664,62.69,2489839,2,246485,9331,9.9,13.5,6.8,11.88,33_Monster Energy
+33,NASCAR Cup Series Championship,2024-11-10,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,7,4,96,5856,61.0,1476,76.38,1878418,2,445670,18872,23.73,11.7,4.1,10.3,33_NAPA Auto Parts
+34,Cup Series at Homestead,2024-11-17,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,28,0,5,219,43.9,27,49.2,55139,2,8728,513,15.83,0.5,0.3,0.29,34_Dollar Tree
+34,Cup Series at Homestead,2024-11-17,Fastenal,Chris Buescher,RFK Racing #17,17,22,0,13,204,15.7,46,19.23,298232,1,44087,2385,14.78,1.6,0.5,1.15,34_Fastenal
+34,Cup Series at Homestead,2024-11-17,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,20,0,4,158,39.7,72,57.5,76695,5,7286,357,9.5,0.6,0.2,0.35,34_Love's Travel Stops
+34,Cup Series at Homestead,2024-11-17,Monster Energy,Tyler Reddick,23XI Racing #45,45,2,26,139,12565,90.4,6015,133.67,824926,8,332017,17487,40.25,18.9,5.9,16.63,34_Monster Energy
+34,Cup Series at Homestead,2024-11-17,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,8,9,94,5292,56.3,1606,73.38,1026957,6,274923,11452,26.77,9.7,4.0,8.54,34_NAPA Auto Parts
+35,Pennzoil 400 Las Vegas,2024-11-17,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,34,0,6,115,19.3,49,27.33,86004,1,11678,565,13.58,0.4,0.2,0.23,35_Dollar Tree
+35,Pennzoil 400 Las Vegas,2024-11-17,Fastenal,Chris Buescher,RFK Racing #17,17,14,0,16,686,42.9,128,50.88,329413,2,67230,2167,20.41,1.9,0.8,1.37,35_Fastenal
+35,Pennzoil 400 Las Vegas,2024-11-17,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,31,0,1,18,18.8,5,23.0,67115,2,8534,182,12.72,0.4,0.1,0.23,35_Love's Travel Stops
+35,Pennzoil 400 Las Vegas,2024-11-17,Monster Energy,Tyler Reddick,23XI Racing #45,45,16,0,51,2131,41.8,798,57.43,1169520,6,189848,11350,16.23,6.0,2.6,5.28,35_Monster Energy
+35,Pennzoil 400 Las Vegas,2024-11-17,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,16,0,64,4352,68.0,660,78.31,1252523,2,123021,7241,9.82,5.5,1.7,4.84,35_NAPA Auto Parts
+36,NASCAR Championship Race,2024-11-24,Dollar Tree,J.H. Nemechek,Legacy Motor Club #42,42,29,0,8,233,29.2,41,34.25,175037,1,22315,1012,12.75,1.1,0.6,0.64,36_Dollar Tree
+36,NASCAR Championship Race,2024-11-24,Fastenal,Chris Buescher,RFK Racing #17,17,18,0,23,1009,43.9,358,59.43,386934,3,74165,3158,19.17,3.6,1.2,2.59,36_Fastenal
+36,NASCAR Championship Race,2024-11-24,Love's Travel Stops,Todd Gilliland,Front Row Motorsports #34,34,26,0,4,150,37.6,25,43.75,124917,2,16619,903,13.3,0.9,0.3,0.52,36_Love's Travel Stops
+36,NASCAR Championship Race,2024-11-24,Monster Energy,Tyler Reddick,23XI Racing #45,45,2,27,198,36154,182.6,7316,219.55,2115655,8,700637,40369,33.12,23.5,6.5,20.68,36_Monster Energy
+36,NASCAR Championship Race,2024-11-24,NAPA Auto Parts,Chase Elliott,Hendrick Motorsports #9,9,20,0,82,4116,50.2,572,57.17,1906380,5,393649,12647,20.65,14.3,4.1,12.58,36_NAPA Auto Parts

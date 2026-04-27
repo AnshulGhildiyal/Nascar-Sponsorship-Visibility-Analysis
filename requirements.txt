@@ -1,0 +1,24 @@
+# NASCAR Sponsorship Visibility Analysis
+# Python 3.10+
+
+# Core data & math
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.11.0
+
+# Data collection
+praw>=7.7.1                     # Reddit API wrapper
+google-api-python-client>=2.100.0  # YouTube Data API v3
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+python-dotenv>=1.0.0            # Load .env for API keys
+tqdm>=4.65.0                    # Progress bars for API loops
+requests>=2.31.0
+
+# Optional — Jupyter notebook support
+jupyterlab>=4.0.0
+ipykernel>=6.0.0
