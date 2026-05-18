@@ -207,7 +207,7 @@ nascar-sponsorship-visibility-analysis/
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/nascar-sponsorship-visibility-analysis.git
+git clone https://github.com/AnshulGhildiyal/nascar-sponsorship-visibility-analysis.git
 cd nascar-sponsorship-visibility-analysis
 
 python -m venv venv
